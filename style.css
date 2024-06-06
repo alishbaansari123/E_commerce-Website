@@ -159,7 +159,7 @@ background-color: rgb(235, 17, 89);
 @media screen and (max-width:480px) {
 
   #home-2page{
-      height: 160vh;
+      height: 250vh;
       flex-direction: column;
       margin-top: 50px;
   }
